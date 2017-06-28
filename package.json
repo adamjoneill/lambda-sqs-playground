@@ -1,0 +1,27 @@
+{
+  "name": "lambda-sqs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint --ext .js ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjoneill/lambda-sqs-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamjoneill/lambda-sqs-playground/issues"
+  },
+  "homepage": "https://github.com/adamjoneill/lambda-sqs-playground#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
